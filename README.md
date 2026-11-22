@@ -1,2 +1,3 @@
 # devops-ci-app
-Учебный проект по DevOps
+
+Учебный проект. Pylint, pytest, Docker и GHCR.
